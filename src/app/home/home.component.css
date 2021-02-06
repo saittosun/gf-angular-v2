@@ -34,13 +34,6 @@ header {
   background: lightgrey;
 }
 
-@media (min-width: 768px) {
-  .booking-form {
-  margin-right: 0;
-  margin-left: 0;
-  }
-}
-
 @media (max-width: 420px) {
   label {
     font-size: 1rem;
